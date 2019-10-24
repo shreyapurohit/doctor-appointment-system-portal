@@ -55,34 +55,34 @@
                     </a>
                 </li>
                 <li>
-                    <a href="home.php">Home</a>
+                    <a href="home.php">HOME</a>
                 </li>
                 <li>
-                    <a href="about.php">New Appointments</a>
+                    <a href="about.php">NEW APPOINTMENTS</a>
                 </li>
                 <li>
-                    <a href="appointments_action.php">My Appointments</a>
+                    <a href="appointments_action.php">MY APPOINTMENTS</a>
                 </li>
                 <li>
-                    <a href="completed_appointments.php">Completed Appointments</a>
+                    <a href="completed_appointments.php">COMPLETED APPOINTMENTS</a>
                 </li>
                 <li>
-                    <a href="cancelled_appointments.php">Cancelled Appointments</a>
+                    <a href="cancelled_appointments.php">CANCELLED APPOINTMENTS</a>
                 </li>
                 <li>
-                    <a href="approve_rejeceted_appointment.php">Approve Rejeceted Appointments</a>
+                    <a href="approve_rejeceted_appointment.php">APPROVED REJECTED APPOINTMENTS</a>
                 </li>
                 <li>
-                    <a href="all_donors.php">All Donors</a>
+                    <a href="all_donors.php">ALL DONORS</a>
                 </li>
                 <li>
-                    <a href="accepted_donors.php">Accepted Donors</a>
+                    <a href="accepted_donors.php">ACCEPTED DONORS</a>
                 </li>
                 <li>
-                    <a href="change_password.php">Change Password</a>
+                    <a href="change_password.php">CHANGE PASSWORD</a>
                 </li>
                 <li>
-                    <a href="logout.php">Log Out</a>
+                    <a href="logout.php">LOG OUT</a>
                 </li>
             </ul>
         </nav>
